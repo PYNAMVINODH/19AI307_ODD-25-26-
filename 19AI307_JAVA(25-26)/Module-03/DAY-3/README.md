@@ -35,8 +35,8 @@ To write a Java program to demonstrate **abstraction using an abstract class and
 ```java
 /*
 Program to implement a Abstraction using Java
-Developed by: Guttha Keerthana
-RegisterNumber: 212223240045
+Developed by: PYNAM VINODH
+RegisterNumber: 212223240131
 */
 
 import java.util.Scanner;
