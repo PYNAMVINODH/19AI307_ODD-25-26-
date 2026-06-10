@@ -28,8 +28,8 @@ To write a Java program to demonstrate **reading input using InputStreamReader a
 ```java
 /*
 Program to implement InputStreamReader using Java
-Developed by: Guttha Keerthana
-RegisterNumber: 212223240045
+Developed by: PYNAM VINODH
+RegisterNumber: 212223240131
 */
 
 import java.io.*;
