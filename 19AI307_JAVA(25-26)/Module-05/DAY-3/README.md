@@ -34,8 +34,8 @@ To write a Java program to demonstrate **file handling using FileWriter and Buff
 ```java
 /*
 Program to implement File Handling using Java
-Developed by: Guttha Keerthana
-RegisterNumber: 212223240045
+Developed by: PYNAM VINODH
+RegisterNumber: 212223240131
 */
 
 import java.io.*;
