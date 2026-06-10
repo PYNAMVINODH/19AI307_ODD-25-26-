@@ -32,8 +32,8 @@ To write a Java program to **check whether a number is prime using wrapper class
 ```java
 /*
 Program to check prime number using wrapper class
-Developed by: Guttha Keerthana
-RegisterNumber: 212223240045
+Developed by: PYNAM VINODH
+RegisterNumber: 212223240131
 */
 
 import java.util.Scanner;
