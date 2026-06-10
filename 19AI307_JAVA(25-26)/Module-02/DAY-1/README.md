@@ -30,8 +30,8 @@ To write a Java program to demonstrate the **class and object concept by creatin
 ```java
 /*
 Program to implement a Class and Objects using Java
-Developed by: Guttha Keerthana
-RegisterNumber: 212223240045
+Developed by: PYNAM VINODH
+RegisterNumber: 212223240131
 */
 
 import java.util.Scanner;
