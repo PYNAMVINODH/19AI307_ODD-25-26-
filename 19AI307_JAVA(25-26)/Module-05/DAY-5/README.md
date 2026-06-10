@@ -40,8 +40,8 @@ To write a Java program to demonstrate **thread synchronization** using `synchro
 ```java
 /*
 Program to implement Multithreading Synchronization using Java
-Developed by: Guttha Keerthana
-RegisterNumber: 212223240045
+Developed by: PYNAM VINODH
+RegisterNumber: 212223240131
 */
 
 import java.util.*;
