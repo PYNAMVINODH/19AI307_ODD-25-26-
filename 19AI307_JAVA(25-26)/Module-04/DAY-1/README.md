@@ -31,8 +31,8 @@ To write a Java program to demonstrate **handling of NullPointerException using 
 ```java
 /*
 Program to demonstrate NullPointerException handling
-Developed by: Guttha Keerthana
-RegisterNumber: 212223240045
+Developed by: PYNAM VINODH
+RegisterNumber: 212223240131
 */
 
 import java.util.Scanner;
