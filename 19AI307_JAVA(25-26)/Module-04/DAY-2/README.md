@@ -35,8 +35,8 @@ To write a Java program to demonstrate **SOLID principles (especially Single Res
 ```java
 /*
 Program to implement SOLID principles using Observer Pattern
-Developed by: Guttha Keerthana
-RegisterNumber: 212223240045
+Developed by: PYNAM VINODH
+RegisterNumber: 212223240131
 */
 
 import java.util.*;
